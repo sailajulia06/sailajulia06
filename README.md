@@ -38,18 +38,14 @@ Hello! I'm Saila Julia, an Informatics Engineering student who is passionate abo
 🤖 Machine Learning
 🌐 Git & GitHub
 ```
+## 🌸 Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,r,figma&theme=light)](https://skillicons.dev)
 
 ---
 
-## 🌸 Current Focus
+## 🩷 Github Stat
 
-```python
-while learning:
-    practice_python()
-    build_projects()
-    improve_skills()
-```
+![Saila's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailajulia06&show_icons=true&theme=synthwave)
 
 ---
 
