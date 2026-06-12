@@ -1,23 +1,26 @@
-## Welcome to my Page 👋
+## 🌸Hello World! Welcome to Saila's GitHub 🌸
+
 <div align="center">
 
-<img src="img/github-header-banner.png" width="100%">
+<img src="img/github-banner.png" width="100%">
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 💗 About Me
 
-✨ Passionate about data, technology, and continuous learning.
+I'm informatic engineering student
 
-🌱 Currently learning:
+🌷 Currently learning:
+
 - Python Programming
 - Data Analysis
 - Machine Learning
 - Git & GitHub
 
 🎯 My goals:
+
 - Build AI and Data Science projects
 - Develop strong analytical skills
 - Create a professional portfolio
@@ -54,7 +57,6 @@ while learning:
 📧 sailajulia.edu@gmail.com
 
 ✨ Thanks for visiting my profile ✨
-
 
 <!--
 **sailajulia06/sailajulia06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
