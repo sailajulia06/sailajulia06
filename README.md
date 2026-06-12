@@ -10,7 +10,7 @@
 
 ## 💗 About Me
 
-I'm informatic engineering student
+Hello! I'm Saila Julia, an Informatics Engineering student who is passionate about technology, data, and continuous learning.
 
 🌷 Currently learning:
 
@@ -38,6 +38,7 @@ I'm informatic engineering student
 🤖 Machine Learning
 🌐 Git & GitHub
 ```
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,r,figma&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -54,7 +55,7 @@ while learning:
 
 ## 💌 Connect With Me
 
-📧 sailajulia.edu@gmail.com
+📧 sailajulia.career@gmail.com
 
 ✨ Thanks for visiting my profile ✨
 
